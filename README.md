@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adna-varupa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adna-varupa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adna-varupa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adna-varupa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/blade-runner-anime-trixie-rdli7xym7udr30k4.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/79/c6/8d/79c68df4b82137741c2e030e8b8b99c1.gif"  />
 
 ###
 
