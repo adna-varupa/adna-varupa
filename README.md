@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybnVicGZoNW1naXUyOHE1YmtscGMwOG5nMzBiNnRpYnU1YnY3M3RuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/200w.gif"  />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/e3588b17-5292-4fed-8c01-c1a0bebe6342/scale-to-width/755"  />
 
 ###
 
